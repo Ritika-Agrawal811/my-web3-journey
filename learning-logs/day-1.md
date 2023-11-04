@@ -1,4 +1,4 @@
-# <span style="color: #bce9ae">Blockchain Basics</span> :zap:
+# Blockchain Basics :zap:
 
 Day 1 starts with covering the basics of blockchain, what it is, why is it so popular and where exaclty to use it!
 
@@ -9,7 +9,7 @@ Day 1 starts with covering the basics of blockchain, what it is, why is it so po
 - [The Birth of Blockchain](#the-birth-of-blockchain-📃) 📃
 - [What is Blockchain](#what-is-blockchain-🔗) 🔗
 
-## <span style="color:#878cff">Databases are the way of life</span> 🗄️
+## Databases are the way of life 🗄️
 
 In our modern world, all our information is stored on _databases_.
 
@@ -19,7 +19,7 @@ Even all the details of our social media account, anything we buy like a house, 
 
 It is safe to say that in modern life, we live in databases!
 
-## <span style="color:#878cff">Problem of trust</span> 🤔
+## Problem of trust 🤔
 
 If I ask you do you believe in your bank, what would you say? Yes?
 
@@ -29,7 +29,7 @@ But we can't really trust them fully. The major example is the 2008 financial cr
 
 📎 Read more about the 2008 financial crisis [here](https://www.britannica.com/money/topic/financial-crisis-of-2007-2008).
 
-## <span style="color:#878cff">The Birth of Blockchain</span> 📃
+## The Birth of Blockchain 📃
 
 In 2008, _Satoshi Nakamoto_ published a [white paper](https://bitcoin.org/bitcoin.pdf) where he invented Bitcoin — A Peer to Peer Electronic Cash Sytem.
 
@@ -37,13 +37,13 @@ He therefore invented the idea of "crypto". He presented an idea of a decentrali
 
 This Bitcoin gave birth to the blockchain technology.
 
-## <span style="color:#878cff">What is Blockchain?</span> 🔗
+## What is Blockchain? 🔗
 
 Blockchain is a **decentralized ledger** that is used to store transactions or data within a number of participants.
 
 There are _2 key points_ to a blockchain → <br/>
 
-1. <span style="color: #ffd731">Decentralized</span>: No single organization or person has the authority over it.
-2. <span style="color: #ffd731">Immutable</span>: Once the data is recorded it cannot be changed.
+1. Decentralized: No single organization or person has the authority over it.
+2. Immutable: Once the data is recorded it cannot be changed.
 
 This ledger is **shared** among a number of computer nodes.
