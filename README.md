@@ -2,7 +2,7 @@
 
 This space serves as a documentation of my daily progress and exploration into the world of Web3 technologies, blockchain, and decentralized applications (dApps)! :rocket:
 
-## Table of Contents :sparkles:
+### Table of Contents :sparkles:
 
 <!-- - [Getting Started](#getting-started) -->
 
