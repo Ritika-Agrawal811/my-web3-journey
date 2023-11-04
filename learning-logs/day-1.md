@@ -1,6 +1,6 @@
 # Blockchain Basics :zap:
 
-Day 1 starts with covering the basics of blockchain, what it is, why is it so popular and where exaclty to use it!
+Day 1 starts with covering the basics of blockchain, what it is, why is it so popular and where exactly to use it!
 
 ### Table of Contents :sparkles:
 
@@ -8,6 +8,8 @@ Day 1 starts with covering the basics of blockchain, what it is, why is it so po
 - [Problem of trust](#problem-of-trust-🤔)🤔
 - [The Birth of Blockchain](#the-birth-of-blockchain-📃) 📃
 - [What is Blockchain](#what-is-blockchain-🔗) 🔗
+- [Why is blockchain so popular?](#why-is-blockchain-so-popular-🌟)
+- [Where to use Blockchain?](#where-to-use-blockchain-🔍)
 
 ## Databases are the way of life 🗄️
 
@@ -43,7 +45,23 @@ Blockchain is a **decentralized ledger** that is used to store transactions or d
 
 There are _2 key points_ to a blockchain → <br/>
 
-1. Decentralized: No single organization or person has the authority over it.
-2. Immutable: Once the data is recorded it cannot be changed.
+1. **Decentralized**: No single organization or person has the authority over it.
+2. **Immutable**: Once the data is recorded it cannot be changed.
 
 This ledger is **shared** among a number of computer nodes.
+
+## Why is blockchain so popular? 🌟
+
+Blockchain provides many features that make it so popular and people claiming it as the future technology.
+
+1. **Security**: Data stored on a blockchain is immutable. It cannot be changed once it is recored in the ledger. Removing the issue of frauds and data being tampered with.
+2. **Transparency**: Data recored is transparent. Anyone can verify and audit transactions, reducing the potential for fraud.
+3. **Decentralized**: No single organization or person owns the blockchain. It is maintained by a number of computer nodes.
+4. **Speed and Efficieny**: It allows us to make fast transactions across countries.
+5. **Use Cases Across Industries**: It is not limited to a single industry; it can be used in finance, healthcare, supply chain, gaming, and many other sectors. Its versatility makes it more popular.
+
+## Where to use Blockchain? 🔍
+
+Blockchain finds its use cases in almost all industries like gaming, healthcare, supply chain etc with finance being the most popular one.
+
+It is being constantly evolved and developed. Many key developments have been made in the areas of smart contracts, consensus mechanisms, NFTs etc.
