@@ -24,9 +24,11 @@ I regularly update my learning logs to document what I've learned during this jo
 
 Explore the [Learning Logs](learning-logs/) to get a sense of my journey :fire:
 
-| Day Number | Topics Learned    | Log Link                            |
-| ---------- | ----------------- | ----------------------------------- |
-| Day 1      | Blockchain Basics | [Day 1 Log](learning-logs/day-1.md) |
+| Day Number | Topics Learned              | Log Link                            |
+| ---------- | --------------------------- | ----------------------------------- |
+| Day 1      | **Blockchain Basics**       | [Day 1 Log](learning-logs/day-1.md) |
+| Day 2      | **How Blockchain Works**    | [Day 2 Log](learning-logs/day-2.md) |
+| Day 3      | **Make a Metamask Account** | [Day 3 Log](learning-logs/day-3.md) |
 
 <!-- ## Projects
 

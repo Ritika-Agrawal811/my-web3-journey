@@ -33,7 +33,7 @@ But we can't really trust them fully. The major example is the 2008 financial cr
 
 ## The Birth of Blockchain 📃
 
-In 2008, _Satoshi Nakamoto_ published a [white paper](https://bitcoin.org/bitcoin.pdf) where he invented Bitcoin — A Peer to Peer Electronic Cash Sytem.
+In October 31, 2008, _Satoshi Nakamoto_ published a [white paper](https://bitcoin.org/bitcoin.pdf) where he invented Bitcoin — A Peer to Peer Electronic Cash Sytem.
 
 He therefore invented the idea of "crypto". He presented an idea of a decentralized platform where peer-to-peer electronic transactions can take place without needing the involvement of a trusted third party.
 
@@ -57,8 +57,9 @@ Blockchain provides many features that make it so popular and people claiming it
 1. **Security**: Data stored on a blockchain is immutable. It cannot be changed once it is recored in the ledger. Removing the issue of frauds and data being tampered with.
 2. **Transparency**: Data recored is transparent. Anyone can verify and audit transactions, reducing the potential for fraud.
 3. **Decentralized**: No single organization or person owns the blockchain. It is maintained by a number of computer nodes.
-4. **Speed and Efficieny**: It allows us to make fast transactions across countries.
-5. **Use Cases Across Industries**: It is not limited to a single industry; it can be used in finance, healthcare, supply chain, gaming, and many other sectors. Its versatility makes it more popular.
+4. **Distributed**: Since it is distributed over many computer nodes, each node has a copy of the ledger and these all copies must match for a transaction to be valid. This makes it more secure than traditional databases.
+5. **Speed and Efficieny**: It allows us to make fast transactions across countries.
+6. **Use Cases Across Industries**: It is not limited to a single industry; it can be used in finance, healthcare, supply chain, gaming, and many other sectors. Its versatility makes it more popular.
 
 ## Where to use Blockchain? 🔍
 
